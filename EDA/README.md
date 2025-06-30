@@ -1,9 +1,8 @@
-**EDA**
+### EDA
 
-**Data Enrichment**
+**Data Enrichment**  
+**Feature Engineering**  
+**Feature Selection**  
+**Data Division**
 
-**Feature Engineering**
-
-**Feature Selection**
-
-**Data Dividation**
+[📊 View full notebook with outputs](https://nbviewer.org/github/ItayAvioz/NBA-Playoff-Predictor/blob/main/EDA/NBA_EDA%20-%203.ipynb)
