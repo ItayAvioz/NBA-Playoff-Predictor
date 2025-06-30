@@ -1,6 +1,5 @@
-### 📊 Plots
+### 📊 Plots (PDF viewer links)
 
-| File | Description |
-|------|-------------|
-| [3 Category Plot](Plots/3_category_plot.pdf) | Side-by-side comparison of the three key outcome categories. |
-| [Categorical & Continuous Plots](Plots/categorical_continuous_plots.pdf) | Distributions and relationships of the main engineered features. |
+- [3 Category Plot](https://docs.google.com/viewer?embedded=1&url=https://raw.githubusercontent.com/ItayAvioz/NBA-Playoff-Predictor/main/Plots/3_category_plot.pdf)
+- [Categorical & Continuous Plots](https://docs.google.com/viewer?embedded=1&url=https://raw.githubusercontent.com/ItayAvioz/NBA-Playoff-Predictor/main/Plots/categorical_continuous_plots.pdf)
+
